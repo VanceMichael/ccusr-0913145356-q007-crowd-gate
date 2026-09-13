@@ -1,0 +1,9 @@
+{
+  "device_id": "GUIDE-023",
+  "storage_bytes": 268435456,
+  "codecs": [
+    "opus",
+    "aac"
+  ],
+  "current_digest": "sha256:旧包摘要"
+}
